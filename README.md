@@ -6,7 +6,7 @@ Currently this version lacks ImGui implementation but otherwise is very similar.
 
 ## Download
 
-Version 1.0 can be fonund on the releases tab.
+Version 1.0 can be found on the releases tab.
 
 ## Building from Source
 
