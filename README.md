@@ -6,10 +6,12 @@ Currently this version lacks ImGui implementation but otherwise is very similar.
 
 ## Download
 
-Version 1.0 can be found on the releases tab.
+Version 1.0 can be found on the releases tab in the form of an exe.
 
 ## Building from Source
 
 **NOTE:** Currently only tested in Visual Studio 2019.
 
-To build from source you must include the include directories under "Dependencies/GLFW/x64/include" and "Dependencies/GLAD/include" as well as link the static libary "glfw3.lib" under "Dependencies/GLFW/x64/lib-vc2019/glfw3.lib". If you wish to run a 32-bit verison you can instead include GLFW's x86 include folder.
+This program requires two dependencies to run:
+* [GLAD with GL 4.6](https://glad.dav1d.de/) - includes
+* [GLFW](https://www.glfw.org/download.html) - includes and static library
