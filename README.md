@@ -12,4 +12,4 @@ Version 1.0 can be fonund on the releases tab.
 
 **NOTE:** Currently only tested in Visual Studio 2019.
 
-To build from source you must include the include directories under "Dependencies/GLFW/x64/include" and "Dependencies/GLAD/include" and link the static libary "glfw3.lib" under "Dependencies/GLFW/x64/lib-vc2019/glfw3.lib". If you wish to run a 32-bit verison you can also include GLFW's x86 include folder.
+To build from source you must include the include directories under "Dependencies/GLFW/x64/include" and "Dependencies/GLAD/include" as well as link the static libary "glfw3.lib" under "Dependencies/GLFW/x64/lib-vc2019/glfw3.lib". If you wish to run a 32-bit verison you can also include GLFW's x86 include folder.
