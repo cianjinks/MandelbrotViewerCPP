@@ -1,6 +1,6 @@
 # MandelbrotViewerCPP
 
-This repository is a C++ port of my [Mandelbrot Viewer Application](https://github.com/cianjinks/MandelbrotViewer) originally written in Java. It visualizes the the Mandelbrot Set and allows for panning and zooming of a camera to explore it. Maximum zoom capability is 64-bit.
+This repository is a C++ port of my [Mandelbrot Viewer Application](https://github.com/cianjinks/MandelbrotViewer) originally written in Java. It visualizes the Mandelbrot Set and allows for the panning and zooming of a camera to explore it. Maximum zoom capability is currently 64-bit.
 
 Currently this version lacks ImGui implementation but otherwise is very similar.
 
